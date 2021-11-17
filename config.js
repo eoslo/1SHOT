@@ -4,7 +4,7 @@ exports.DBL_API_KEY = ''; //https://top.gg
 
 exports.PREFIX = '##';
 
-exports.GOOGLE_API_KEY = ''; // https://console.cloud.google.com/apis/library/youtube.googleapis.com
+exports.GOOGLE_API_KEY = 'AIzaSyC23RmUtWPjr4QuzEnW43OgQHf4r2ycsm4'; // https://console.cloud.google.com/apis/library/youtube.googleapis.com
 
 exports.GENIUS_API_KEY = ''; // https://genius.com/developers
 
