@@ -1,8 +1,8 @@
-exports.TOKEN = ''; //https://discord.com/developers/applications
+exports.TOKEN = 'OTAxOTcyMzgxODczMTA2OTg0.YXXpPQ.3iAq_8nO4caAqm6uH7AIw9yNAeM'; //https://discord.com/developers/applications
 
 exports.DBL_API_KEY = ''; //https://top.gg
 
-exports.PREFIX = '';
+exports.PREFIX = '##';
 
 exports.GOOGLE_API_KEY = ''; // https://console.cloud.google.com/apis/library/youtube.googleapis.com
 
