@@ -42,7 +42,8 @@
     "fs-nextra": "^0.5.1",
     "aki-api": "^5.0.0",
     "giphy-api": "^2.0.1",
-    "pokersolver": "^2.1.3"
+    "pokersolver": "^2.1.3",
+    "superagent": "^6.1.0"
   },
   "devDependencies": {}
 }
